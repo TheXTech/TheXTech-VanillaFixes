@@ -2,6 +2,7 @@
 <p align="center">
 <a href="https://github.com/Wohlstand/TheXTech/releases"><img src="https://raw.githubusercontent.com/Wohlstand/TheXTech/master/resources/icon/thextech_256.png" alt="TheXTech"></a>
 </p>
+
 This repo is meant to keep track of issues in Vanilla Episodes that occur on TheXTech.
 
 When making new issues, make sure to add/mention:
