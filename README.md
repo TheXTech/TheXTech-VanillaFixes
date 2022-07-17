@@ -9,8 +9,8 @@ When making new issues, make sure to add:
 
 - The Episode Name.
 - Source Link to the Episode.
-- All relevant Levels and their respective MD5-Hashes.
-- The MD5-Hash of the Episode-Archive (can be displayed by [Gtkhash](https://github.com/tristanheaven/gtkhash/releases)).
+- All relevant Level Names
+- The MD5-Hash of the Archive, wld-files, and relevant lvl-files (can be displayed by [Gtkhash](https://github.com/tristanheaven/gtkhash/releases)).
 - Screenshots or Recordings of the Issue.
 - A description of what is needed to fix the Issue.
 - If it's a packed episode with custom default set (like STTB or Yoshi's Archipelago), mention it.
