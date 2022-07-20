@@ -1,5 +1,5 @@
 #1) Fill empty blocks for Multires.
-#2) Add bgo-61 (Black 32x32) to some pipes and block for improved looks.
+#2) Add bgo-61 (Black 32x32) to some pipes and blocks for improved looks.
 --- OLD/Cliffside.lvl	2010-04-12 20:29:18.000000000 +0200
 +++ NEW/Cliffside.lvl	2022-07-20 11:40:55.298394121 +0200
 @@ -12,10 +12,10 @@
