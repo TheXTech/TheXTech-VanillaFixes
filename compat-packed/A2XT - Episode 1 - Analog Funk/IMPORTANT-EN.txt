@@ -1,0 +1,14 @@
+== TheXTech conversion kit notes hints ==
+
+=== 2014 assets 1.2.1 ===
+This is the closed to original release of project which uses LunaDLL-v7.
+Nothing special needed. Simply use the TheXTech-zing kit and apply the patch.
+
+=== 2015 assets 1.3 ===
+This is an updated version 1.3 which started to use LunaLua-SMBX (based on
+LunaDLL-v8). There is a small thing you should take care to get this work
+properly: Before running GFX conversion, you should rename "a2mbxt.exe" into
+anything also, otherwise it's a fake executable which is a LunaLoader
+masquarated.
+Also, please use sounds.ini and music.ini from the patch as original set
+is broken and will cause no music or sound works.
